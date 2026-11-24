@@ -7,7 +7,10 @@ Every flag, explanation and decision goes into a hash-chained audit log.
 
 The only network calls the app makes go to a local Ollama server.
 
-> Status: milestone M0 (scaffold). The full README comes in M7.
+> **Status: 2 of 8 milestones done** (M0 scaffold and M1 data). The rule engine
+> comes next. For the problem, the architecture and the roadmap, read
+> [docs/overview.md](docs/overview.md). The full build plan is in
+> [docs/spec.md](docs/spec.md).
 
 ## Quick start
 
