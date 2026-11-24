@@ -1,0 +1,10 @@
+[
+{"camera_ids":["CAM-01"],"hazard_tags":["hydrocarbon"],"id":"A01","name":"Crude charge pump bay","polygon":[[0.0,0.0],[40.0,0.0],[40.0,30.0],[0.0,30.0]]},
+{"camera_ids":["CAM-02"],"hazard_tags":["hydrocarbon","confined_space","high_temperature"],"id":"A02","name":"Charge heater H-301","polygon":[[50.0,0.0],[90.0,0.0],[90.0,30.0],[50.0,30.0]]},
+{"camera_ids":["CAM-03"],"hazard_tags":["hydrocarbon","confined_space","work_at_height"],"id":"A03","name":"Fractionator C-301","polygon":[[100.0,0.0],[140.0,0.0],[140.0,30.0],[100.0,30.0]]},
+{"camera_ids":["CAM-04"],"hazard_tags":["hydrocarbon","H2S"],"id":"A04","name":"Sour water stripper","polygon":[[0.0,40.0],[40.0,40.0],[40.0,70.0],[0.0,70.0]]},
+{"camera_ids":["CAM-05"],"hazard_tags":["hydrocarbon","confined_space"],"id":"A05","name":"Drum V-305 bay","polygon":[[50.0,40.0],[90.0,40.0],[90.0,70.0],[50.0,70.0]]},
+{"camera_ids":["CAM-06"],"hazard_tags":["hydrocarbon"],"id":"A06","name":"Pipe rack north","polygon":[[100.0,40.0],[140.0,40.0],[140.0,70.0],[100.0,70.0]]},
+{"camera_ids":["CAM-07"],"hazard_tags":["hydrocarbon","H2S","noise"],"id":"A07","name":"Compressor house K-302","polygon":[[0.0,80.0],[40.0,80.0],[40.0,110.0],[0.0,110.0]]},
+{"camera_ids":["CAM-08","CAM-09"],"hazard_tags":["lifting"],"id":"A08","name":"Crane pad and laydown","polygon":[[50.0,80.0],[140.0,80.0],[140.0,110.0],[50.0,110.0]]}
+]

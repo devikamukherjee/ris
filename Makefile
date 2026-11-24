@@ -43,9 +43,11 @@ dev: ## Run the API on 127.0.0.1:8000 (and the Vite dev server once frontend/ ex
 test: ## Run the backend test suite
 	@cd backend && $(PY) -m pytest -q
 
+SEED ?= 42
+seed: ## Generate the seeded shift into SQLite + data/fixtures (SEED=42; FORCE=1 to replace a used DB)
+	@cd backend && $(PY) -m app.sim.seed --seed $(SEED) $(if $(FORCE),--force)
+
 # Targets below are filled in by later milestones; until then they fail loudly.
-seed: ## Generate the seeded shift into SQLite + JSON fixtures (M1)
-	@echo "make seed is not implemented yet (milestone M1)" >&2; exit 1
 
 verify-audit: ## Verify the audit hash chain (M3)
 	@echo "make verify-audit is not implemented yet (milestone M3)" >&2; exit 1

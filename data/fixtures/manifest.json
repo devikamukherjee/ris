@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "areas": 8,
+    "events": 7822,
+    "gas_tests": 34,
+    "lift_plans": 6,
+    "permits": 28,
+    "scenarios": 45,
+    "workers": 28
+  },
+  "generator_version": "1",
+  "seed": 42,
+  "shift_end": "2026-03-10T18:00:00",
+  "shift_start": "2026-03-10T06:00:00",
+  "site": "Northbank Refinery, Unit 3"
+}

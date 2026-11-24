@@ -1,0 +1,8 @@
+[
+{"area_id":"A04","description":"Lift pipe spools","end":"2026-03-10T14:40:04","footprint":[[7.3,47.4],[15.9,47.4],[15.9,56.0],[7.3,56.0]],"id":"LP-01","kind":"lift","permit_id":"LF-2064","start":"2026-03-10T14:09:06","vehicle_id":"CR-02"},
+{"area_id":"A02","description":"Lift a scaffold bundle","end":"2026-03-10T15:16:26","footprint":[[57.5,1.0],[65.6,1.0],[65.6,7.4],[57.5,7.4]],"id":"LP-02","kind":"lift","permit_id":"LF-2065","start":"2026-03-10T14:38:03","vehicle_id":"CR-01"},
+{"area_id":"A06","description":"Lift a replacement valve","end":"2026-03-10T08:18:23","footprint":[[125.6,54.2],[131.8,54.2],[131.8,61.3],[125.6,61.3]],"id":"LP-03","kind":"lift","permit_id":"LF-2066","start":"2026-03-10T07:50:40","vehicle_id":"CR-02"},
+{"area_id":"A08","description":"Lift a pump skid","end":"2026-03-10T07:31:49","footprint":[[89.1,87.1],[97.4,87.1],[97.4,96.9],[89.1,96.9]],"id":"LP-04","kind":"lift","permit_id":"LF-2067","start":"2026-03-10T06:50:55","vehicle_id":"CR-01"},
+{"area_id":"A08","description":"Lift a pump skid","end":"2026-03-10T08:08:12","footprint":[[86.6,88.5],[95.6,88.5],[95.6,96.4],[86.6,96.4]],"id":"LP-05","kind":"lift","permit_id":"LF-2067","start":"2026-03-10T07:47:12","vehicle_id":"CR-01"},
+{"area_id":"A08","description":"Lift heat exchanger bundle","end":"2026-03-10T12:23:35","footprint":[[64.3,86.0],[73.6,86.0],[73.6,94.2],[64.3,94.2]],"id":"LP-06","kind":"lift","permit_id":"LF-2068","start":"2026-03-10T11:39:57","vehicle_id":"CR-02"}
+]
